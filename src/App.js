@@ -69,6 +69,7 @@ function DeleteTodo({todo, setTodos}) {
     }
   }
 
+  
   return (
     <span
       onClick={handleDeleteTodo}
